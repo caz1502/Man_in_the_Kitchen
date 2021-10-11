@@ -1,0 +1,71 @@
+/* Topography */
+
+i {
+  font-size: 2em; 
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1;
+  background-color:#DBDBDB;
+}
+  
+/* navbar */
+
+.nav-item, .navbar-brand {
+  padding-right: 50px;
+}
+  
+.jumbotron {
+  text-align: center;
+  background-color:#DBDBDB;
+  color: black;
+  border-radius: 0;
+  border-bottom: 10px solid black;  
+}
+   
+.intro {
+  text-align: center;
+  padding-bottom: 2%;   
+  line-height: 1.6;
+}
+
+.carousel {
+  width: 55%;
+  margin-left: auto;
+  margin-right: auto;
+  display: table;
+}
+
+.carousel-item img {
+  max-height: 900px; /* input your desired height here */
+}
+
+.card-deck {
+  padding-bottom: 2%;
+  width:60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card-text {
+padding-top: 1rem;
+font-size: .9em;
+line-height: 1.6;
+}
+
+.card-header {
+background-color: #DBDBDB;
+}
+
+.card {
+border-radius: 1rem;  
+}
+  
+
+ 
+
+
+
+
