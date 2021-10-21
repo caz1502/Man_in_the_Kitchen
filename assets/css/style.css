@@ -5,10 +5,10 @@ i {
 }
 
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 16px;
   line-height: 1;
-  background-color:#DBDBDB;
+  /* background-color:#DBDBDB; */
 }
   
 /* navbar */
