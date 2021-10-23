@@ -4,11 +4,18 @@ i {
   font-size: 2em; 
 }
 
+a,
+.card-title {
+  letter-spacing: 0.1em;
+}
+
 body {
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 16px;
   line-height: 1;
   /* background-color:#DBDBDB; */
+  height: 100vh;
+  width: 100vw;
 }
   
 /* navbar */
@@ -19,10 +26,12 @@ body {
   
 .jumbotron {
   text-align: center;
+  letter-spacing: 1em;
   background-color:#DBDBDB;
   color: black;
   border-radius: 0;
   border-bottom: 10px solid black;  
+  
 }
    
 .intro {
