@@ -1,36 +1,32 @@
 /* Topography */
 
 i {
-  font-size: 2em; 
+  font-size: 2rem; 
 }
 
 a,
 .card-title {
-  letter-spacing: 0.1em;
+  letter-spacing: 0.1rem;
 }
 
 body {
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  font-size: 20px;
-  line-height: 1;
-  /* background-color:#DBDBDB; */
+  font-size: 16px;
+
   height: 100vh;
   width: 100vw;
-}
-  
+}  
 /* navbar */
-
 .nav-item, .navbar-brand {
   padding-right: 50px;
 }
-  
-.jumbotron {
+
+#introbox{
   text-align: center;
-  letter-spacing: 1em;
+  letter-spacing: 1rem;
   background-color:#DBDBDB;
-  color: black;
-  border-radius: 0;
-  border-bottom: 10px solid black;  
+  color: black;  
+  border-bottom: 10px solid black;   
   
 }
    
@@ -41,7 +37,7 @@ body {
 }
 
 .carousel {
-  width: 55%;
+  width: 65%;
   margin-left: auto;
   margin-right: auto;
   display: table;
@@ -56,7 +52,7 @@ body {
 
 .card-text {
 padding-top: 1rem;
-font-size: .9em;
+font-size: .9rem;
 line-height: 1.6;
 }
 
