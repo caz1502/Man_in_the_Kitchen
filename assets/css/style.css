@@ -11,7 +11,7 @@ a,
 
 body {
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  font-size: 16px;
+  font-size: 20px;
   line-height: 1;
   /* background-color:#DBDBDB; */
   height: 100vh;
@@ -47,10 +47,6 @@ body {
   display: table;
 }
 
-.carousel-item img {
-  max-height: 900px; /* input your desired height here */
-}
-
 .card-deck {
   padding-bottom: 2%;
   width:60%;
@@ -71,10 +67,3 @@ background-color: #DBDBDB;
 .card {
 border-radius: 1rem;  
 }
-  
-
- 
-
-
-
-
